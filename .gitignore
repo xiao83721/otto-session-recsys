@@ -1,0 +1,12 @@
+data/
+*.zip
+*.parquet
+*.pkl
+*.csv
+*.jsonl
+__pycache__/
+.ipynb_checkpoints/
+.env
+.kaggle/
+access_token
+kaggle.json
