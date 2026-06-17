@@ -98,7 +98,7 @@ python scripts/000_manual_eval_recall.py \
 
 > 写什么：一两句收口。
 
-<填:建立了无泄漏、官方口径的评估闭环，并拿到热门基线地板 weighted=…；后续方法以此为对照。>
+建立了无泄漏、官方口径的评估闭环，并拿到热门基线地板 weighted=0.1*clicks + 0.3*carts + 0.6*orders；后续方法以此为对照
 
 ## 8. 局限与注意
 
